@@ -1,23 +1,44 @@
 # HackerRank SQL & Python Solutions
 
-Welcome to my HackerRank Solutions repository! 🚀
+This repository contains my solutions to HackerRank challenges completed as part of my problem-solving and programming practice. The solutions primarily focus on **SQL and Python**.
 
-This repository contains my solutions to various HackerRank challenges completed as part of my continuous learning and problem-solving journey. The solutions are primarily written in **SQL** and **Python**, covering topics ranging from basic concepts to more advanced problem-solving techniques.
+## Achievements
 
-The goal of this repository is to:
+### SQL — 58/58 Completed
 
-- Strengthen problem-solving skills
-- Improve SQL query writing and database concepts
-- Practice Python programming fundamentals and logic building
-- Maintain consistency through regular coding practice
-- Track learning progress over time
+I have successfully completed **all 58 SQL challenges** on HackerRank and earned a **5-Star SQL Badge**.
 
----
+**SQL Progress: 58/58 — 100% Complete**
+
+The challenges cover:
+
+* Basic Select
+* Advanced Select
+* Aggregation
+* Basic Join
+* Advanced Join
+* Subqueries
+* Alternative Queries
+* Advanced SQL
+
+**HackerRank SQL Rating: ⭐⭐⭐⭐⭐**
+
+## Python
+
+Python challenges are currently being worked through, with solutions organized by topic and difficulty.
+
+## Goals
+
+* Strengthen problem-solving and logical thinking skills
+* Improve SQL query writing and database concepts
+* Practice Python programming
+* Build consistency through coding practice
+* Track progress and continuously expand my skills
 
 ## Repository Structure
 
 ```text
-HackerRank-Solutions/
+HackerRank/
 │
 ├── SQL/
 │   ├── Basic Select/
@@ -46,3 +67,10 @@ HackerRank-Solutions/
 │   └── Problem Solving/
 │
 └── README.md
+```
+
+## Current Achievement
+
+**58/58 SQL challenges completed | 5-Star SQL Rating**
+
+This repository will continue to be updated as I progress through Python and additional problem-solving challenges.
